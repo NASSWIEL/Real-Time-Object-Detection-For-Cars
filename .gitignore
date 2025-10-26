@@ -1,0 +1,20 @@
+# Weights files (too large for GitHub)
+*.weights
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Video files
+*.mp4
+*.avi
+
+# Virtual environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
