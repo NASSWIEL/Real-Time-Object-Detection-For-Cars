@@ -32,9 +32,9 @@ pip install opencv-python numpy
 ```
 
 2. Download YOLO model files and place in project directory:
-   - `yolov3.cfg` - [Download](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
-   - `yolov3.weights` - [Download](https://pjreddie.com/media/files/yolov3.weights)
-   - `coco.names` - [Download](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
+   - `yolov3.cfg` - Already included in repository
+   - `coco.names` - Already included in repository
+   - `yolov3.weights` - **If you want the weights, you will find them in this link:** [Download YOLOv3 Weights](https://pjreddie.com/media/files/yolov3.weights) (236 MB)
 
 ## Usage
 
