@@ -11,6 +11,10 @@ A production-ready vehicle detection system using YOLOv3 deep learning model to 
 - **Live Preview**: See detections as they happen
 - **Video Output**: Saves processed video with annotations
 
+## Demo
+
+![Vehicle Detection Demo](assets/detection_demo.png)
+
 ## Project Structure
 
 ```
